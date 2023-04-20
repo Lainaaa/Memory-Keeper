@@ -56,6 +56,7 @@
 		480A98CB29A61551009E779C /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				489486B729B123ED00B84AE6 /* Cells */,
 				48C70D39294B5B1300BA5F70 /* ViewController.swift */,
 				48887E02294C876A00D03D29 /* AddWordsViewController.swift */,
 				48FFEBD8294BA5F900281B18 /* QuizTableViewController.swift */,
@@ -104,7 +105,6 @@
 		48C70D34294B5B1300BA5F70 /* Memory Keeper */ = {
 			isa = PBXGroup;
 			children = (
-				489486B729B123ED00B84AE6 /* Cells */,
 				480A98CB29A61551009E779C /* Views */,
 				48CA836C29A6158600B2B656 /* Controller */,
 				48C70D41294B5B1400BA5F70 /* Assets.xcassets */,
