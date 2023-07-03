@@ -6,7 +6,6 @@ class CoreDataManager{
     let context: NSManagedObjectContext
     
     //MARK: init
-    
     private init(){
         let appDelegate = UIApplication.shared.delegate as! AppDelegate
         context = appDelegate.persistentContainer.viewContext
